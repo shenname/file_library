@@ -1,5 +1,0 @@
-Git is version control system.
-Git is free software.
-This is a test.
-This's new test.
-
